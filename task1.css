@@ -1,0 +1,218 @@
+  *{
+		margin:0;
+		padding:0;
+		 }
+		 .menu{
+		 margin-left:80px;
+		 margin-top:80px;
+		 clear:both;
+		 }
+		 nav ul{
+		 list-style:none;
+		 }
+         nav ul li{
+		 text-decoration:none;
+		 float:left;
+		 width:140px;
+		 line-height:40px;
+		 background:#FF8C00;
+		 text-align:center;
+		 position:relative;
+		 }
+		 nav ul li a{
+		 text-decoration:none;
+		 font-size:20px;
+		 color:white;
+		 display:block;
+		 font-weight:bold;
+		 text-shadow:0 1px 1px black;
+		 }
+		 nav ul li a:hover{
+		 background-color:blue;
+		 color:pink;
+		 }
+		 nav ul li ul{
+		 display:none;
+		 position:absolute;
+		 }
+		 nav ul li:hover ul{
+		 display:block;
+         }
+		 nav ul li ul li ul li{
+		 display:none
+		 }
+		 nav ul li ul li:hover ul li{
+		 display:block;
+		 margin-left:99%;
+		 bottom:50px;
+		 }
+		 #home{
+		 background:green;
+		 }
+		 #about{
+		 background:orange;
+		 }
+		 #teachers{
+		 background:yellow;
+		 }
+         #events{
+		 background:red;
+		 }
+		 #activities{
+		 background:pink;
+		 }
+		 #faq{
+		 background:red;
+		 }
+		 #contacts{
+		 background:purple;
+		 }
+		 
+		 button{
+		 width:109px;
+		 height:60px;
+		 font-size:20px;
+		 border:none;
+		 margin-left:29.5px;
+		 background-color:blue;
+		 }
+		 button a{
+		 color:white;
+		  text-decoration:none;
+		 }
+		 button:hover{
+		 background-color:dodgerblue;
+		 }
+		 
+ 	body{
+		background-image:url("bubble1.jpg");
+		background-repeat:no-repeat;
+		background-size:100% 48.5%;
+	}
+	
+	#baby3{
+		margin-left:80px;
+		width:87%;
+		height:420px;
+		border:10px solid white;
+	}
+	  #div1{
+	  
+	  background-image:url("green.jpg");
+	  background-repeat:no-repeat;
+	  background-size:350px 480px;
+	  float:left;
+	  width:360px;
+	  height:480px;
+	  margin-left:85px;
+	  border:5px solid white;
+	  color:white;
+	}
+	  #div2{
+	  background-image:url("orange.png");
+	  background-repeat:no-repeat;
+	  background-size:350px 480px;
+	  width:360px;
+	  height:480px;
+	  float:left;
+	  margin-left:5px;
+	  border:5px solid white;
+	}
+	  #div3{
+	  background-image:url("blue.png");
+	  background-repeat:no-repeat;
+	  background-size:350px 480px;
+	  width:360px;
+	  height:480px;
+	  float:left;
+	  margin-left:4px;
+	  border:5px solid white;
+	}
+	  footer{
+	   clear:left;
+	   padding-top:30px;
+	   background-color:lightgrey;
+	   width:100%;
+	   height:90px;
+	}
+	  #foott{
+		margin-left:68px;
+		padding:10px;
+	}
+	  #foott,a,p{
+	  text-decoration:none;
+	  padding:5px;
+	  color:black;
+	}
+	  #h4{
+	    border-bottom-style:dotted;
+	    border-width:1px;
+		padding:10px;
+	}
+	  #a1{
+	  background-color:seagreen;
+	  color:white;
+	  display:block;
+	  width:100px;
+	  height:20px;
+	  margin-left:20px;
+	  margin-top:5px;
+	}
+	  #baby4{
+	  width:320px;
+	  height:190px;
+	  margin-left:15px;
+	  margin-top:5px;
+	}
+	  #a2{
+	  background-color:orangered;
+	  color:white;
+	  display:block;
+	  width:100px;
+	  height:20px;
+	  margin-left:20px;
+	  margin-top:45px;
+	}
+	  #teach{
+	  width:320px;
+	  height:190px;
+	  margin-left:15px;
+	  margin-top:5px;
+	}
+	  #a3{
+	  background-color:dodgerblue;
+	  color:white;
+	  display:block;
+	  width:100px;
+	  height:20px;
+	  margin-left:20px;
+	  margin-top:45px;
+	}
+	  p{
+	  color:white;
+	}
+	  h1,h2{
+	  color:white;
+	  margin-left:20px;
+	  margin-top:10px;
+	}
+	  #kinder{
+	  font-family:snap itc;
+	  font-size:50px;
+	  font-style:italic;
+	  margin-left:80px;
+	  margin-top:30px;
+	  float:left;
+	}
+	  #marmora{
+	  margin-right:62px;
+	  color:white;
+	  float:right;
+	  margin-top:40px;
+	}
+      #Developed{
+      	margin-left: 420px;
+      	
+      	
+      }
+		       
